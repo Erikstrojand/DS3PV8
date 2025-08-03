@@ -1153,4 +1153,4 @@ for (let dong in player.properties) {
 updateMap();
 updateStatus();
 highlightOwnedDistricts();
-log("Welcome to Digital Seoul 3! version 7.2 by KJH :) ");
+log("Welcome to Digital Seoul 3! version 7.2 by ES :) ");
